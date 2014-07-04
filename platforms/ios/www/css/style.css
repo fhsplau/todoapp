@@ -1,0 +1,36 @@
+/* Empty. Add your own CSS if you like */
+#searchDiv {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 36px !important;
+    top: 0px;
+    background-image: linear-gradient(0deg, #4a87ee, #4a87ee 0%, transparent 0%);
+}
+
+#appTitle {
+    top: 22px;
+}
+
+#addButtonOnBar {
+    top: 25px;
+}
+
+#searchBar {
+    height: 30px;
+    margin-top: 0;
+}
+
+#checkmarkButton {
+    color: green;
+    padding-right: 0;
+    bottom: 5px;
+}
+
+#projectRow {
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+#cancelButtonSearchBar {
+    margin-top: 0 !important;
+}
